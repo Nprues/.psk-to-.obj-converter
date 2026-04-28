@@ -1,0 +1,3 @@
+C:/MetodologiaC/psk_to_obj_folder/cmake-build-debug/CMakeFiles/psk_to_obj_folder.dir
+C:/MetodologiaC/psk_to_obj_folder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/MetodologiaC/psk_to_obj_folder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
